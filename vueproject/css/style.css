@@ -1,0 +1,61 @@
+body{
+    background-color: #414143 ;
+    font-family: Tahoma;
+    line-height: 1.5;
+    font-size: 12px;
+}
+.title{
+    font-size: 45px;
+    color: #f0f0f0;
+}
+h1{
+    margin-left: 25px;
+    color: dimgray;
+    font-size: 30px;
+
+}
+.card{
+    width: 500px;
+    margin: 100px auto;
+    background-color: white;
+    border-radius: 15px;
+}
+.card-photo{
+    width: 120px;
+    margin: -13px 180px;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: 1px 1px 2px 1px #cccccc;
+
+
+}
+.tab-button.active{
+    background:#4200ff !important;
+    color: #f0f0f0;
+    border-radius: 7px;
+
+}
+
+.tab-button {
+    padding: 6px 10px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    background: #f0f0f0;
+    margin-bottom: 7px;
+    margin-right: -1px;
+    margin-left: 25px;
+    border-radius: 7px;
+    color: lightslategray;
+}
+.tab-button:hover {
+    background: #e0e0e0;
+    border-radius: 7px;
+}
+.tab {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 15px;
+    margin-left: 25px;
+    margin-right: 25px;
+
+}
