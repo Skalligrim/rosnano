@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8ee2477-7b44-48ca-a8ab-176e23384a0f" name="Changes" comment="smth" />
+    <list default="true" id="f8ee2477-7b44-48ca-a8ab-176e23384a0f" name="Changes" comment="libraries">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +35,7 @@
       <option name="presentableId" value="Default" />
       <updated>1635192023052</updated>
       <workItem from="1635192025023" duration="2369000" />
+      <workItem from="1635195781359" duration="928000" />
     </task>
     <task id="LOCAL-00001" summary="smth">
       <created>1635195500252</created>
@@ -41,7 +44,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635195500252</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="libraries">
+      <created>1635196061692</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1635196061692</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -57,9 +67,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="smth" />
-    <option name="LAST_COMMIT_MESSAGE" value="smth" />
+    <MESSAGE value="libraries" />
+    <option name="LAST_COMMIT_MESSAGE" value="libraries" />
   </component>
 </project>
